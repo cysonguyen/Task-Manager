@@ -1,0 +1,10 @@
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\obj\Debug\Task_Manager.Form1.resources
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+D:\Năm 3  - ĐHBK\NL Hệ điều hành\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
